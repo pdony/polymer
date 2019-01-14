@@ -1,0 +1,19 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/iron-icon": "^3.0.0-pre.12",
+    "@polymer/iron-icons": "^3.0.0-pre.12",
+    "@polymer/polymer": "^3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "^1.0.20",
+    "polymer-cli": "^1.9.5"
+  },
+  "devDependencies": {}
+}
